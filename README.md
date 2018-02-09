@@ -8,9 +8,13 @@ JS Loan Calculator is a Small Application that I built to work on some of my Van
 It will then provide you with your 
 * Monthly Payments 
 * Total Interest
-* Total Payment
+* Total Payments
 
-Technologies
-HTML
-CSS(Bootstrap)
-Vanilla Javascript
+Technologies Used:
+* HTML
+* CSS(Bootstrap)
+* Vanilla Javascript
+
+<h3>Check it Out:</h3>
+1. Download the files
+2. Open the index.html file in any Web Browser & Have fun
