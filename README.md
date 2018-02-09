@@ -17,4 +17,5 @@ Technologies Used:
 
 <h3>Check it Out:</h3>
 1. Download the files
+<br>
 2. Open the index.html file in any Web Browser & Have fun
